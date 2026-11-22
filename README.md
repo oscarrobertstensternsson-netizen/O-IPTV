@@ -1,1 +1,1 @@
-You can choose diffrent versions fro diffrent operating systems by changing branch
+You can choose diffrent versions of diffrent operating systems by changing branch
