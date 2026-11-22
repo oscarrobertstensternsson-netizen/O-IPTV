@@ -1,1 +1,1 @@
-Windows version of O-IPTV starter, check realeses
+Check Realeses for Adnroid and Windows verisons
