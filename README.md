@@ -1,1 +1,1 @@
-You can choose diffrent versions of diffrent operating systems by changing branch
+Windows version of O-IPTV starter, check realeses
